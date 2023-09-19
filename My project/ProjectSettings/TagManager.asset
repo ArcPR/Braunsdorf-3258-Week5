@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - resetBox
+  - pointBox
+  - score
   layers:
   - Default
   - TransparentFX
