@@ -588,6 +588,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3790815360336332848, guid: bff462a612124d0468c8db456e6d2022, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 55a77bc402f52094e82ed2f61d4206dd, type: 2}
     - target: {fileID: 8008429045878496801, guid: bff462a612124d0468c8db456e6d2022, type: 3}
       propertyPath: m_Name
       value: pointBox (36)
@@ -938,6 +942,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3790815360336332848, guid: bff462a612124d0468c8db456e6d2022, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 55a77bc402f52094e82ed2f61d4206dd, type: 2}
     - target: {fileID: 8008429045878496801, guid: bff462a612124d0468c8db456e6d2022, type: 3}
       propertyPath: m_Name
       value: pointBox (38)
@@ -2080,6 +2088,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3790815360336332848, guid: bff462a612124d0468c8db456e6d2022, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 55a77bc402f52094e82ed2f61d4206dd, type: 2}
     - target: {fileID: 8008429045878496801, guid: bff462a612124d0468c8db456e6d2022, type: 3}
       propertyPath: m_Name
       value: pointBox (40)
@@ -2237,6 +2249,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3790815360336332848, guid: bff462a612124d0468c8db456e6d2022, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 55a77bc402f52094e82ed2f61d4206dd, type: 2}
     - target: {fileID: 8008429045878496801, guid: bff462a612124d0468c8db456e6d2022, type: 3}
       propertyPath: m_Name
       value: pointBox (37)
@@ -2661,6 +2677,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3790815360336332848, guid: bff462a612124d0468c8db456e6d2022, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 55a77bc402f52094e82ed2f61d4206dd, type: 2}
     - target: {fileID: 8008429045878496801, guid: bff462a612124d0468c8db456e6d2022, type: 3}
       propertyPath: m_Name
       value: pointBox (41)
@@ -4421,6 +4441,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3790815360336332848, guid: bff462a612124d0468c8db456e6d2022, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 55a77bc402f52094e82ed2f61d4206dd, type: 2}
     - target: {fileID: 8008429045878496801, guid: bff462a612124d0468c8db456e6d2022, type: 3}
       propertyPath: m_Name
       value: pointBox (39)
