@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3641894061248129092}
   - component: {fileID: 3790815360336332848}
   - component: {fileID: 1246721939443463884}
+  - component: {fileID: -7976983355266584006}
   m_Layer: 0
   m_Name: pointBox
   m_TagString: score
@@ -105,3 +106,15 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &-7976983355266584006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8008429045878496801}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55edd124aa014fc2a4d8ef1794dcd775, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
